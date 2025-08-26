@@ -1,5 +1,4 @@
-<h1 align="center">Hello There! ,My Name is Kritsanapong Titayanuwat 
-            you can call me Pop</h1>
+<h1 align="center">Hello There! ,My Name is Kritsanapong Titayanuwat "Pop" </h1>
 <h3 align="center">I am currently a 4th-year Computer Science student at Kasetsart University and expect to graduate in March 2026. I am seeking an internship opportunity in Data Engineer, Data Science, AI/ML Engineer or Research, Software Development, Computer Vision (Medical Image) I am also open to roles in Software Engineer, Data Analysis or Software Architecture.</h3>
 
 <p align="left"> <a href="https://twitter.com/marguroo" target="blank"><img src="https://img.shields.io/twitter/follow/marguroo?logo=twitter&style=for-the-badge" alt="marguroo" /></a> </p>
