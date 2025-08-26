@@ -1,7 +1,8 @@
-<h1 align="center">Hello There! ,My Name is Kritsanapong Titayanuwat you can call me Pop</h1>
+<h1 align="center">Hello There! ,My Name is Kritsanapong Titayanuwat 
+            you can call me Pop</h1>
 <h3 align="center">I am currently a 4th-year Computer Science student at Kasetsart University and expect to graduate in March 2026. I am seeking an internship opportunity in Data Engineer, Data Science, AI/ML Engineer or Research, Software Development, Computer Vision (Medical Image) I am also open to roles in Software Engineer, Data Analysis or Software Architecture.</h3>
 
-<p align="left"> <a href="https://twitter.com/@marguroo" target="blank"><img src="https://img.shields.io/twitter/follow/@marguroo?logo=twitter&style=for-the-badge" alt="@marguroo" /></a> </p>
+<p align="left"> <a href="https://twitter.com/marguroo" target="blank"><img src="https://img.shields.io/twitter/follow/marguroo?logo=twitter&style=for-the-badge" alt="marguroo" /></a> </p>
 
 - 🧙🏻 I’m currently working on Research [Automated Pill Segmentation Counting and Foreign Object Detection.](https://github.com/SALM0Ns/Automated-Pill-Counting-and-Foreign-Object-Detection.)
 
@@ -15,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@marguroo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@marguroo" height="30" width="40" /></a>
+<a href="https://twitter.com/marguroo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marguroo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kritsanapong titayanuwat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kritsanapong titayanuwat" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/salm0ns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="salm0ns" height="30" width="40" /></a>
 <a href="https://kaggle.com/salm0ns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="salm0ns" height="30" width="40" /></a>
