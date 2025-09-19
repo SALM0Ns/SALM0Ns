@@ -1,8 +1,8 @@
 
-![Happy Work From Home GIF by Scaler](https://github.com/user-attachments/assets/39d6b35e-2ad1-4070-af77-fbe15e36bf1e)
+  ![Happy Work From Home GIF by Scaler](https://github.com/user-attachments/assets/39d6b35e-2ad1-4070-af77-fbe15e36bf1e)
 
 
-<h1 align="center">Hello There! ,My Name is Kritsanapong Titayanuwat "Pop" </h1>
+<h1 align="center">Hello There!, I'm Kritsanapong Titayanuwat or "Pop" </h1>
 <h3 align="center">I am currently a 4th-year Computer Science student at Kasetsart University and expect to graduate in March 2026. I am seeking an internship opportunity in Data Engineer, Data Science, AI/ML Engineer or Research, Software Development, Computer Vision (Medical Image) I am also open to roles in Software Engineer, Data Analysis or Software Architecture.</h3>
 
 <p align="left"> <a href="https://twitter.com/marguroo" target="blank"><img src="https://img.shields.io/twitter/follow/marguroo?logo=twitter&style=for-the-badge" alt="marguroo" /></a> </p>
